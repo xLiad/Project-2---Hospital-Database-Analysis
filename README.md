@@ -10,7 +10,7 @@ Sample Database description:
 
 Hospitals are the most important part of our lives, trying to provide the best medical facilities to people suffering from various type of illness, which may be due to change in climate conditions, increased work-load, emotional trauma stress etc. It is very much difficult for the hospital to maintain its day-to-day acitivities and records manually. That is why a database is required to keep records of all type of acitivities of a hospital.
 
-List of tables in the hospital database:
+# List of tables in the hospital database:
 
 # physician
 •	employeeid – this is a unique ID of a physician
